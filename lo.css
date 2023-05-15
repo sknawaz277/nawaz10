@@ -1,0 +1,54 @@
+body{
+    background: url(https://wallpapers.com/images/featured/zs817vt2mu86x3jh.jpg);
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+}         
+.heading{
+    width: 1300px;
+    height: 80px;
+    margin-left: 380px;
+    margin-top: 175px;
+    background:rgb(75, 7, 170);
+}
+.heading h1{
+
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+h2{
+
+    font-style: italic;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+ h2{
+
+    font-style: italic;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+ }
+.first{
+    text-align: center;
+}
+.firstimage{
+   text-align: center;
+}
+.second{
+    text-align: center;
+    color: rgba(138, 3, 228, 0.018);
+}
+.secondimage{
+    text-align: center;
+}
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px 5px 0px 0px;
+    margin-left: 20px;
+    margin-top: 25px;
+}
